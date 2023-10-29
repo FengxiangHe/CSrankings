@@ -9,7 +9,7 @@ You must read and check **all** the boxes below by filling them in with an X or 
 
 **The Basics**
 
-- [ x] All pull requests and issues must come from non-anonymous accounts. Make sure your GitHub profile contains your full name.
+- [x] All pull requests and issues must come from non-anonymous accounts. Make sure your GitHub profile contains your full name.
 
 - [ x] Use a reasonable title that explains what the PR corresponds to (as in, not "Update csrankings-x.csv").
 
