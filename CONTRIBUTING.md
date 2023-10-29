@@ -55,7 +55,7 @@ e.g. showing a courtesy appointment in CS.** Faculty must also have a 75%+ time 
 
 - [ ] If the department is not yet listed in CSrankings, the entire CS faculty needs to be added (not just one faculty member).
 
-- [ ] Enter each faculty member's [DBLP](http://dblp.org) name, home page, and Google Scholar entry (just the alphanumeric identifier, not the whole URL) by modifying `csrankings-[a-z].csv` (**the letters correspond to the first letter of the faculty members' names**); include disambiguation suffixes like `0001` as needed. If the faculty entry is currently ambiguous, please do not include them. Send mail to the DBLP maintainers (dblp@dagstuhl.de) with a few publications by a particular faculty member; also, open an issue so that when the DBLP database is updated, that faculty member's information can be added.
+- [x] Enter each faculty member's [DBLP](http://dblp.org) name, home page, and Google Scholar entry (just the alphanumeric identifier, not the whole URL) by modifying `csrankings-[a-z].csv` (**the letters correspond to the first letter of the faculty members' names**); include disambiguation suffixes like `0001` as needed. If the faculty entry is currently ambiguous, please do not include them. Send mail to the DBLP maintainers (dblp@dagstuhl.de) with a few publications by a particular faculty member; also, open an issue so that when the DBLP database is updated, that faculty member's information can be added.
 
 - [ ] If DBLP has multiple entries for this person, *all of them need to be listed*. Do not update `dblp-aliases.csv`.
 
